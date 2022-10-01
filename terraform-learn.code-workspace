@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../terraform-class/terraform-commands"
+		},
+		{
+			"path": "../terraform-class/practiceproject"
+		},
+		{
+			"path": "../../projects/learn-terraform-provision-gke-cluster"
+		},
+		{
+			"path": "../terraform-class/custom-virtual-machine"
+		},
+		{
+			"path": "../terraform-class/Afforadable HR Applications_practice"
+		}
+	],
+	"settings": {}
+}
